@@ -1,0 +1,19 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "tag": "minecraft:coals"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:steel_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:ender_ingot"
+    },
+    "1": {
+      "item": "advanced_combat:ender_ingot"
+    },
+    "2": {
+      "item": "advanced_combat:ender_ingot"
+    },
+    "3": {
+      "item": "advanced_combat:ender_ingot"
+    },
+    "4": {
+      "item": "advanced_combat:ender_ingot"
+    },
+    "5": {
+      "item": "advanced_combat:ender_ingot"
+    },
+    "6": {
+      "item": "advanced_combat:ender_ingot"
+    },
+    "7": {
+      "item": "advanced_combat:ender_ingot"
+    },
+    "8": {
+      "item": "advanced_combat:ender_ingot"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:ender_block",
+    "count": 1
+  }
+}

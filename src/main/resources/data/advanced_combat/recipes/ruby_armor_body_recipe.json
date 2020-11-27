@@ -1,0 +1,39 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:ruby"
+    },
+    "2": {
+      "item": "advanced_combat:ruby"
+    },
+    "3": {
+      "item": "advanced_combat:ruby"
+    },
+    "4": {
+      "item": "advanced_combat:ruby"
+    },
+    "5": {
+      "item": "advanced_combat:ruby"
+    },
+    "6": {
+      "item": "advanced_combat:ruby"
+    },
+    "7": {
+      "item": "advanced_combat:ruby"
+    },
+    "8": {
+      "item": "advanced_combat:ruby"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:ruby_armor_chestplate",
+    "count": 1
+  }
+}

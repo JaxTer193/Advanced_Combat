@@ -1,0 +1,29 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:cobsand_dust"
+    },
+    "1": {
+      "item": "advanced_combat:cobsand_dust"
+    },
+    "2": {
+      "item": "advanced_combat:cobsand_dust"
+    },
+    "3": {
+      "item": "advanced_combat:cobsand_dust"
+    },
+    "5": {
+      "item": "advanced_combat:cobsand_dust"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:cobsand_armor_helmet",
+    "count": 1
+  }
+}

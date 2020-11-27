@@ -1,0 +1,36 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:poweronium"
+    },
+    "1": {
+      "item": "advanced_combat:poweronium"
+    },
+    "2": {
+      "item": "advanced_combat:poweronium"
+    },
+    "3": {
+      "item": "advanced_combat:poweronium"
+    },
+    "5": {
+      "item": "advanced_combat:poweronium"
+    },
+    "6": {
+      "item": "advanced_combat:poweronium"
+    },
+    "8": {
+      "item": "advanced_combat:poweronium"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:poweronium_armor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:copper_ingot"
+    },
+    "1": {
+      "item": "advanced_combat:copper_ingot"
+    },
+    "2": {
+      "item": "advanced_combat:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:copper_wire",
+    "count": 1
+  }
+}

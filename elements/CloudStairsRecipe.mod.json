@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CloudPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CloudPlanks"
+      },
+      {
+        "value": "CUSTOM:CloudPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CloudPlanks"
+      },
+      {
+        "value": "CUSTOM:CloudPlanks"
+      },
+      {
+        "value": "CUSTOM:CloudPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CloudStairs"
+    },
+    "name": "cloud_stairs_recipe",
+    "namespace": "mod"
+  }
+}

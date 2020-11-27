@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "powerd_sword",
+    "customModelName": "Normal",
+    "name": "Powered Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:AdvancedCombat"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 25,
+    "efficiency": 50.0,
+    "attackSpeed": 2.0,
+    "enchantability": 6,
+    "damageVsEntity": 10.0,
+    "usageCount": 400,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ElecturiumIngot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

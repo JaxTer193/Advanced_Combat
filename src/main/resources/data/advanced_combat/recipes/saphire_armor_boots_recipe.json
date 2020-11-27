@@ -1,0 +1,26 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:saphire"
+    },
+    "2": {
+      "item": "advanced_combat:saphire"
+    },
+    "3": {
+      "item": "advanced_combat:saphire"
+    },
+    "5": {
+      "item": "advanced_combat:saphire"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:saphire_armor_boots",
+    "count": 1
+  }
+}

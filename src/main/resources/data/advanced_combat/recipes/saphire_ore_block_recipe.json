@@ -1,0 +1,42 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:saphire"
+    },
+    "1": {
+      "item": "advanced_combat:saphire"
+    },
+    "2": {
+      "item": "advanced_combat:saphire"
+    },
+    "3": {
+      "item": "advanced_combat:saphire"
+    },
+    "4": {
+      "item": "advanced_combat:saphire"
+    },
+    "5": {
+      "item": "advanced_combat:saphire"
+    },
+    "6": {
+      "item": "advanced_combat:saphire"
+    },
+    "7": {
+      "item": "advanced_combat:saphire"
+    },
+    "8": {
+      "item": "advanced_combat:saphire"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:saphire_block",
+    "count": 1
+  }
+}

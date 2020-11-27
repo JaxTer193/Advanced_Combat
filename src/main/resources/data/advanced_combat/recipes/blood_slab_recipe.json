@@ -1,0 +1,22 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:blood_planks"
+    },
+    "1": {
+      "item": "advanced_combat:blood_planks"
+    },
+    "2": {
+      "item": "advanced_combat:blood_planks"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:blood_slab",
+    "count": 6
+  }
+}

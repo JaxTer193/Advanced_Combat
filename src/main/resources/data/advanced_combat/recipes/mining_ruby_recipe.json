@@ -1,0 +1,19 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:ruby_ore"
+    },
+    "1": {
+      "item": "advanced_combat:book_of_mining_secrets"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:ruby",
+    "count": 64
+  }
+}

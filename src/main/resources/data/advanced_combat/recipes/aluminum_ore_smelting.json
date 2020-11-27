@@ -1,0 +1,12 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "advanced_combat:aluminum_ore"
+  },
+  "result": {
+    "item": "advanced_combat:aluminum_ingot"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:ruby"
+    },
+    "1": {
+      "item": "advanced_combat:ruby"
+    },
+    "2": {
+      "item": "advanced_combat:ruby"
+    },
+    "3": {
+      "item": "advanced_combat:ruby"
+    },
+    "5": {
+      "item": "advanced_combat:ruby"
+    },
+    "6": {
+      "item": "advanced_combat:ruby"
+    },
+    "8": {
+      "item": "advanced_combat:ruby"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:ruby_armor_leggings",
+    "count": 1
+  }
+}

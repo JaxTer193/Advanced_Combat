@@ -1,0 +1,36 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:saphire"
+    },
+    "1": {
+      "item": "advanced_combat:saphire"
+    },
+    "2": {
+      "item": "advanced_combat:saphire"
+    },
+    "3": {
+      "item": "advanced_combat:saphire"
+    },
+    "5": {
+      "item": "advanced_combat:saphire"
+    },
+    "6": {
+      "item": "advanced_combat:saphire"
+    },
+    "8": {
+      "item": "advanced_combat:saphire"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:saphire_armor_leggings",
+    "count": 1
+  }
+}

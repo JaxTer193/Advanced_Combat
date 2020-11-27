@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "advanced_combat:blocks/cloud_planks",
+    "top": "advanced_combat:blocks/cloud_planks",
+    "side": "advanced_combat:blocks/cloud_planks"
+  }
+}

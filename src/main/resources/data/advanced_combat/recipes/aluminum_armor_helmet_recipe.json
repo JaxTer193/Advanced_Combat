@@ -1,0 +1,29 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:aluminum_ingot"
+    },
+    "1": {
+      "item": "advanced_combat:aluminum_ingot"
+    },
+    "2": {
+      "item": "advanced_combat:aluminum_ingot"
+    },
+    "3": {
+      "item": "advanced_combat:aluminum_ingot"
+    },
+    "5": {
+      "item": "advanced_combat:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:aluminum_armor_helmet",
+    "count": 1
+  }
+}

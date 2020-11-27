@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "advanced_combat:blocks/blood_planks",
+    "particle": "advanced_combat:blocks/blood_planks"
+  }
+}

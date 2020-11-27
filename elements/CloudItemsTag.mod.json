@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CloudWood"
+      },
+      {
+        "value": "CUSTOM:CloudLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "cloud_log",
+    "namespace": "forge"
+  }
+}

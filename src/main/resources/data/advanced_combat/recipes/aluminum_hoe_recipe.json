@@ -1,0 +1,27 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:aluminum_ingot"
+    },
+    "1": {
+      "item": "advanced_combat:aluminum_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:aluminum_hoe",
+    "count": 1
+  }
+}
