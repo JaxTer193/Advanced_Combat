@@ -17,7 +17,7 @@ public class PoweroniumPickaxeItem extends AdvancedCombatModElements.ModElement 
 	@ObjectHolder("advanced_combat:poweronium_pickaxe")
 	public static final Item block = null;
 	public PoweroniumPickaxeItem(AdvancedCombatModElements instance) {
-		super(instance, 125);
+		super(instance, 122);
 	}
 
 	@Override

@@ -17,7 +17,7 @@ public class EnderAxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_axe")
 	public static final Item block = null;
 	public EnderAxeItem(AdvancedCombatModElements instance) {
-		super(instance, 147);
+		super(instance, 127);
 	}
 
 	@Override

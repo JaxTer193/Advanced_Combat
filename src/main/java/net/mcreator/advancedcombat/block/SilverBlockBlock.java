@@ -24,7 +24,7 @@ public class SilverBlockBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:silver_block")
 	public static final Block block = null;
 	public SilverBlockBlock(AdvancedCombatModElements instance) {
-		super(instance, 5);
+		super(instance, 4);
 	}
 
 	@Override

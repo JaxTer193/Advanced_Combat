@@ -22,7 +22,7 @@ public class MetalSpoolItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:metal_spool")
 	public static final Item block = null;
 	public MetalSpoolItem(AdvancedCombatModElements instance) {
-		super(instance, 6);
+		super(instance, 5);
 	}
 
 	@Override

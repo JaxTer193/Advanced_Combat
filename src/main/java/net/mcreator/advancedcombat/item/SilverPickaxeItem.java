@@ -17,7 +17,7 @@ public class SilverPickaxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:silver_pickaxe")
 	public static final Item block = null;
 	public SilverPickaxeItem(AdvancedCombatModElements instance) {
-		super(instance, 17);
+		super(instance, 110);
 	}
 
 	@Override

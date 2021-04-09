@@ -28,7 +28,7 @@ public class CloudWoodBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:cloud_wood")
 	public static final Block block = null;
 	public CloudWoodBlock(AdvancedCombatModElements instance) {
-		super(instance, 331);
+		super(instance, 43);
 	}
 
 	@Override

@@ -17,7 +17,7 @@ public class ElecturiumShovelItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:electurium_shovel")
 	public static final Item block = null;
 	public ElecturiumShovelItem(AdvancedCombatModElements instance) {
-		super(instance, 276);
+		super(instance, 148);
 	}
 
 	@Override

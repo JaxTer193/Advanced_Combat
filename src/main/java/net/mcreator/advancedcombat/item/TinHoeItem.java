@@ -17,7 +17,7 @@ public class TinHoeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:tin_hoe")
 	public static final Item block = null;
 	public TinHoeItem(AdvancedCombatModElements instance) {
-		super(instance, 320);
+		super(instance, 153);
 	}
 
 	@Override

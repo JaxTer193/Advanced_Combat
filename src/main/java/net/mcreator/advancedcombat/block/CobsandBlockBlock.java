@@ -24,7 +24,7 @@ public class CobsandBlockBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:cobsand_block")
 	public static final Block block = null;
 	public CobsandBlockBlock(AdvancedCombatModElements instance) {
-		super(instance, 196);
+		super(instance, 33);
 	}
 
 	@Override

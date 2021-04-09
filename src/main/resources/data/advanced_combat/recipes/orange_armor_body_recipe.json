@@ -1,0 +1,39 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:orange"
+    },
+    "2": {
+      "item": "advanced_combat:orange"
+    },
+    "3": {
+      "item": "advanced_combat:orange"
+    },
+    "4": {
+      "item": "advanced_combat:orange"
+    },
+    "5": {
+      "item": "advanced_combat:orange"
+    },
+    "6": {
+      "item": "advanced_combat:orange"
+    },
+    "7": {
+      "item": "advanced_combat:orange"
+    },
+    "8": {
+      "item": "advanced_combat:orange"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:orange_armor_chestplate",
+    "count": 1
+  }
+}

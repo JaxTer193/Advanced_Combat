@@ -17,7 +17,7 @@ public class EnderSwordItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_sword")
 	public static final Item block = null;
 	public EnderSwordItem(AdvancedCombatModElements instance) {
-		super(instance, 148);
+		super(instance, 85);
 	}
 
 	@Override

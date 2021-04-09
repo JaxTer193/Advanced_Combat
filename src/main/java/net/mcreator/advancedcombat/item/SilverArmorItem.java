@@ -29,7 +29,7 @@ public class SilverArmorItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:silver_armor_boots")
 	public static final Item boots = null;
 	public SilverArmorItem(AdvancedCombatModElements instance) {
-		super(instance, 12);
+		super(instance, 76);
 	}
 
 	@Override

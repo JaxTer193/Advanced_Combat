@@ -39,7 +39,7 @@ public class TinOreBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:tin_ore")
 	public static final Block block = null;
 	public TinOreBlock(AdvancedCombatModElements instance) {
-		super(instance, 311);
+		super(instance, 41);
 	}
 
 	@Override

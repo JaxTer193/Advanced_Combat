@@ -29,7 +29,7 @@ public class ElecturiumArmorItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:electurium_armor_boots")
 	public static final Item boots = null;
 	public ElecturiumArmorItem(AdvancedCombatModElements instance) {
-		super(instance, 283);
+		super(instance, 95);
 	}
 
 	@Override

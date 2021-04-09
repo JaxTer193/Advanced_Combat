@@ -27,7 +27,7 @@ public class CloudPlanksBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:cloud_planks")
 	public static final Block block = null;
 	public CloudPlanksBlock(AdvancedCombatModElements instance) {
-		super(instance, 333);
+		super(instance, 45);
 	}
 
 	@Override

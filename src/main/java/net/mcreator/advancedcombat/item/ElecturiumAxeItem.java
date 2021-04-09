@@ -17,7 +17,7 @@ public class ElecturiumAxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:electurium_axe")
 	public static final Item block = null;
 	public ElecturiumAxeItem(AdvancedCombatModElements instance) {
-		super(instance, 274);
+		super(instance, 147);
 	}
 
 	@Override

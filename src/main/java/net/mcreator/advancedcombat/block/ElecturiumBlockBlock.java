@@ -24,7 +24,7 @@ public class ElecturiumBlockBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:electurium_block")
 	public static final Block block = null;
 	public ElecturiumBlockBlock(AdvancedCombatModElements instance) {
-		super(instance, 269);
+		super(instance, 39);
 	}
 
 	@Override

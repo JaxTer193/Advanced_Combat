@@ -27,7 +27,7 @@ public class EnderPlanksBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_planks")
 	public static final Block block = null;
 	public EnderPlanksBlock(AdvancedCombatModElements instance) {
-		super(instance, 163);
+		super(instance, 18);
 	}
 
 	@Override

@@ -16,7 +16,7 @@ public class RubyItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ruby")
 	public static final Item block = null;
 	public RubyItem(AdvancedCombatModElements instance) {
-		super(instance, 215);
+		super(instance, 67);
 	}
 
 	@Override

@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hellfire_pickaxe",
+    "customModelName": "Normal",
+    "name": "HellFire Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 13,
+    "efficiency": 18.0,
+    "attackSpeed": 1.0,
+    "enchantability": 91,
+    "damageVsEntity": 13.0,
+    "usageCount": 3436,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:HellFire"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

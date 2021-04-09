@@ -27,7 +27,7 @@ public class CloudStairsBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:cloud_stairs")
 	public static final Block block = null;
 	public CloudStairsBlock(AdvancedCombatModElements instance) {
-		super(instance, 335);
+		super(instance, 47);
 	}
 
 	@Override

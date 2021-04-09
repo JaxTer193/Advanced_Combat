@@ -18,7 +18,7 @@ public class BloodAxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:blood_axe")
 	public static final Item block = null;
 	public BloodAxeItem(AdvancedCombatModElements instance) {
-		super(instance, 258);
+		super(instance, 143);
 	}
 
 	@Override

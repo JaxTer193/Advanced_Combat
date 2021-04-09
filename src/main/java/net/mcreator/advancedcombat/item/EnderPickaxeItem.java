@@ -17,7 +17,7 @@ public class EnderPickaxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_pickaxe")
 	public static final Item block = null;
 	public EnderPickaxeItem(AdvancedCombatModElements instance) {
-		super(instance, 146);
+		super(instance, 126);
 	}
 
 	@Override

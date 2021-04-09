@@ -17,7 +17,7 @@ public class ElecturiumPickaxeItem extends AdvancedCombatModElements.ModElement 
 	@ObjectHolder("advanced_combat:electurium_pickaxe")
 	public static final Item block = null;
 	public ElecturiumPickaxeItem(AdvancedCombatModElements instance) {
-		super(instance, 273);
+		super(instance, 146);
 	}
 
 	@Override

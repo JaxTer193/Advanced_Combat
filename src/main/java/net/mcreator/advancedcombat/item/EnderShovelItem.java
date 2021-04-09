@@ -17,7 +17,7 @@ public class EnderShovelItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_shovel")
 	public static final Item block = null;
 	public EnderShovelItem(AdvancedCombatModElements instance) {
-		super(instance, 149);
+		super(instance, 128);
 	}
 
 	@Override

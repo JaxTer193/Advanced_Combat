@@ -17,7 +17,7 @@ public class RubyPickaxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ruby_pickaxe")
 	public static final Item block = null;
 	public RubyPickaxeItem(AdvancedCombatModElements instance) {
-		super(instance, 221);
+		super(instance, 134);
 	}
 
 	@Override

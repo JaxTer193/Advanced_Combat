@@ -39,7 +39,7 @@ public class RubyOreBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ruby_ore")
 	public static final Block block = null;
 	public RubyOreBlock(AdvancedCombatModElements instance) {
-		super(instance, 216);
+		super(instance, 34);
 	}
 
 	@Override

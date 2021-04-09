@@ -13,7 +13,7 @@ import net.mcreator.advancedcombat.AdvancedCombatModElements;
 @AdvancedCombatModElements.ModElement.Tag
 public class AdvancedCombatItemGroup extends AdvancedCombatModElements.ModElement {
 	public AdvancedCombatItemGroup(AdvancedCombatModElements instance) {
-		super(instance, 21);
+		super(instance, 170);
 	}
 
 	@Override

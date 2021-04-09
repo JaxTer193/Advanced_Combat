@@ -24,7 +24,7 @@ public class CopperBlockBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:copper_block")
 	public static final Block block = null;
 	public CopperBlockBlock(AdvancedCombatModElements instance) {
-		super(instance, 3);
+		super(instance, 2);
 	}
 
 	@Override

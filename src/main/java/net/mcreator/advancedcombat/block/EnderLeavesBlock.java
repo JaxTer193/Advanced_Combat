@@ -27,7 +27,7 @@ public class EnderLeavesBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_leaves")
 	public static final Block block = null;
 	public EnderLeavesBlock(AdvancedCombatModElements instance) {
-		super(instance, 164);
+		super(instance, 19);
 	}
 
 	@Override

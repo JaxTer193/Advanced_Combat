@@ -29,7 +29,7 @@ public class RubyArmorItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ruby_armor_boots")
 	public static final Item boots = null;
 	public RubyArmorItem(AdvancedCombatModElements instance) {
-		super(instance, 231);
+		super(instance, 90);
 	}
 
 	@Override

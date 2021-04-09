@@ -16,7 +16,7 @@ public class ElecturiumIngotItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:electurium_ingot")
 	public static final Item block = null;
 	public ElecturiumIngotItem(AdvancedCombatModElements instance) {
-		super(instance, 267);
+		super(instance, 69);
 	}
 
 	@Override

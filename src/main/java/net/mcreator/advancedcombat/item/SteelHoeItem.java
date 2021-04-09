@@ -17,7 +17,7 @@ public class SteelHoeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:steel_hoe")
 	public static final Item block = null;
 	public SteelHoeItem(AdvancedCombatModElements instance) {
-		super(instance, 66);
+		super(instance, 117);
 	}
 
 	@Override

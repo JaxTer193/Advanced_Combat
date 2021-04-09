@@ -17,7 +17,7 @@ public class CopperAxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:copper_axe")
 	public static final Item block = null;
 	public CopperAxeItem(AdvancedCombatModElements instance) {
-		super(instance, 14);
+		super(instance, 107);
 	}
 
 	@Override

@@ -17,7 +17,7 @@ public class PoweroniumAxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:poweronium_axe")
 	public static final Item block = null;
 	public PoweroniumAxeItem(AdvancedCombatModElements instance) {
-		super(instance, 126);
+		super(instance, 123);
 	}
 
 	@Override

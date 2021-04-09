@@ -1,0 +1,12 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:smelting",
+  "experience": 0.35,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "advanced_combat:orange_ore"
+  },
+  "result": {
+    "item": "advanced_combat:orange"
+  }
+}

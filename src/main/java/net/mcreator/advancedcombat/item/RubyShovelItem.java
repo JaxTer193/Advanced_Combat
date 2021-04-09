@@ -17,7 +17,7 @@ public class RubyShovelItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ruby_shovel")
 	public static final Item block = null;
 	public RubyShovelItem(AdvancedCombatModElements instance) {
-		super(instance, 224);
+		super(instance, 136);
 	}
 
 	@Override

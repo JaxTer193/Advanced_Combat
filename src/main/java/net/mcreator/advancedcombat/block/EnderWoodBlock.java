@@ -28,7 +28,7 @@ public class EnderWoodBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_wood")
 	public static final Block block = null;
 	public EnderWoodBlock(AdvancedCombatModElements instance) {
-		super(instance, 161);
+		super(instance, 16);
 	}
 
 	@Override

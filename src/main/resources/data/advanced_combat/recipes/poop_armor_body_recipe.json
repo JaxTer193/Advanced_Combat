@@ -1,0 +1,39 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:poop_ingot"
+    },
+    "2": {
+      "item": "advanced_combat:poop_ingot"
+    },
+    "3": {
+      "item": "advanced_combat:poop_ingot"
+    },
+    "4": {
+      "item": "advanced_combat:poop_ingot"
+    },
+    "5": {
+      "item": "advanced_combat:poop_ingot"
+    },
+    "6": {
+      "item": "advanced_combat:poop_ingot"
+    },
+    "7": {
+      "item": "advanced_combat:poop_ingot"
+    },
+    "8": {
+      "item": "advanced_combat:poop_ingot"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:poop_armor_chestplate",
+    "count": 1
+  }
+}

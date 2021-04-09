@@ -29,7 +29,7 @@ public class SaphireArmorItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:saphire_armor_boots")
 	public static final Item boots = null;
 	public SaphireArmorItem(AdvancedCombatModElements instance) {
-		super(instance, 252);
+		super(instance, 92);
 	}
 
 	@Override

@@ -17,7 +17,7 @@ public class PoweroniumHoeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:poweronium_hoe")
 	public static final Item block = null;
 	public PoweroniumHoeItem(AdvancedCombatModElements instance) {
-		super(instance, 129);
+		super(instance, 125);
 	}
 
 	@Override

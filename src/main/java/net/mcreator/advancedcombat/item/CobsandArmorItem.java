@@ -29,7 +29,7 @@ public class CobsandArmorItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:cobsand_armor_boots")
 	public static final Item boots = null;
 	public CobsandArmorItem(AdvancedCombatModElements instance) {
-		super(instance, 210);
+		super(instance, 88);
 	}
 
 	@Override

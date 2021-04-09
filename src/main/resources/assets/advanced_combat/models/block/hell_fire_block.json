@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "advanced_combat:blocks/hellfire_ore_block",
+    "particle": "advanced_combat:blocks/hellfire_ore_block"
+  }
+}

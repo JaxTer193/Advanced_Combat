@@ -24,7 +24,7 @@ public class SaphireBlockBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:saphire_block")
 	public static final Block block = null;
 	public SaphireBlockBlock(AdvancedCombatModElements instance) {
-		super(instance, 238);
+		super(instance, 37);
 	}
 
 	@Override

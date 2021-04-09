@@ -16,7 +16,7 @@ public class PowerCellItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:power_cell")
 	public static final Item block = null;
 	public PowerCellItem(AdvancedCombatModElements instance) {
-		super(instance, 53);
+		super(instance, 7);
 	}
 
 	@Override

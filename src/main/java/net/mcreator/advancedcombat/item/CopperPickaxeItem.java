@@ -17,7 +17,7 @@ public class CopperPickaxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:copper_pickaxe")
 	public static final Item block = null;
 	public CopperPickaxeItem(AdvancedCombatModElements instance) {
-		super(instance, 13);
+		super(instance, 106);
 	}
 
 	@Override

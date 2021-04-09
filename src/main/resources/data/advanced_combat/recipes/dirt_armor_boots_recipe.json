@@ -1,0 +1,26 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:dirt_dust"
+    },
+    "2": {
+      "item": "advanced_combat:dirt_dust"
+    },
+    "3": {
+      "item": "advanced_combat:dirt_dust"
+    },
+    "5": {
+      "item": "advanced_combat:dirt_dust"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:dirt_armor_boots",
+    "count": 1
+  }
+}

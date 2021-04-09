@@ -17,7 +17,7 @@ public class SteelSwordItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:steel_sword")
 	public static final Item block = null;
 	public SteelSwordItem(AdvancedCombatModElements instance) {
-		super(instance, 64);
+		super(instance, 79);
 	}
 
 	@Override

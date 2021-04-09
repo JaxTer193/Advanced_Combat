@@ -28,7 +28,7 @@ public class CloudSlabBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:cloud_slab")
 	public static final Block block = null;
 	public CloudSlabBlock(AdvancedCombatModElements instance) {
-		super(instance, 336);
+		super(instance, 48);
 	}
 
 	@Override

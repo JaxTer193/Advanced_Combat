@@ -39,7 +39,7 @@ public class PoweroniumOreBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:poweronium_ore")
 	public static final Block block = null;
 	public PoweroniumOreBlock(AdvancedCombatModElements instance) {
-		super(instance, 120);
+		super(instance, 12);
 	}
 
 	@Override

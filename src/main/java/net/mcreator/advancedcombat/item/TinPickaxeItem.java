@@ -17,7 +17,7 @@ public class TinPickaxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:tin_pickaxe")
 	public static final Item block = null;
 	public TinPickaxeItem(AdvancedCombatModElements instance) {
-		super(instance, 316);
+		super(instance, 150);
 	}
 
 	@Override

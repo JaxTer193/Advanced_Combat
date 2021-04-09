@@ -1,0 +1,26 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:hell_fire"
+    },
+    "2": {
+      "item": "advanced_combat:hell_fire"
+    },
+    "3": {
+      "item": "advanced_combat:hell_fire"
+    },
+    "5": {
+      "item": "advanced_combat:hell_fire"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:hell_fire_armor_boots",
+    "count": 1
+  }
+}

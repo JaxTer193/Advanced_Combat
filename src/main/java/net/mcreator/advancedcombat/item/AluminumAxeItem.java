@@ -17,7 +17,7 @@ public class AluminumAxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:aluminum_axe")
 	public static final Item block = null;
 	public AluminumAxeItem(AdvancedCombatModElements instance) {
-		super(instance, 105);
+		super(instance, 119);
 	}
 
 	@Override

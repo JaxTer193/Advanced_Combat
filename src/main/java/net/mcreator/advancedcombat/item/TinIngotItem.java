@@ -16,7 +16,7 @@ public class TinIngotItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:tin_ingot")
 	public static final Item block = null;
 	public TinIngotItem(AdvancedCombatModElements instance) {
-		super(instance, 310);
+		super(instance, 70);
 	}
 
 	@Override

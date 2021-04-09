@@ -39,7 +39,7 @@ public class AluminumOreBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:aluminum_ore")
 	public static final Block block = null;
 	public AluminumOreBlock(AdvancedCombatModElements instance) {
-		super(instance, 99);
+		super(instance, 10);
 	}
 
 	@Override

@@ -17,7 +17,7 @@ public class SilverAxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:silver_axe")
 	public static final Item block = null;
 	public SilverAxeItem(AdvancedCombatModElements instance) {
-		super(instance, 18);
+		super(instance, 111);
 	}
 
 	@Override

@@ -17,7 +17,7 @@ public class EnderHoeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_hoe")
 	public static final Item block = null;
 	public EnderHoeItem(AdvancedCombatModElements instance) {
-		super(instance, 150);
+		super(instance, 129);
 	}
 
 	@Override

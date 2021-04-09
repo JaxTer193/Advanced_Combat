@@ -24,7 +24,7 @@ public class TinBlockBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:tin_block")
 	public static final Block block = null;
 	public TinBlockBlock(AdvancedCombatModElements instance) {
-		super(instance, 312);
+		super(instance, 42);
 	}
 
 	@Override

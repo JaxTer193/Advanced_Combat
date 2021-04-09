@@ -1,0 +1,36 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:black_hole"
+    },
+    "1": {
+      "item": "advanced_combat:black_hole"
+    },
+    "2": {
+      "item": "advanced_combat:black_hole"
+    },
+    "3": {
+      "item": "advanced_combat:black_hole"
+    },
+    "5": {
+      "item": "advanced_combat:black_hole"
+    },
+    "6": {
+      "item": "advanced_combat:black_hole"
+    },
+    "8": {
+      "item": "advanced_combat:black_hole"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:black_hole_armor_leggings",
+    "count": 1
+  }
+}

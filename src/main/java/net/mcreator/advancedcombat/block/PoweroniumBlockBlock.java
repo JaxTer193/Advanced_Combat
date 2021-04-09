@@ -24,7 +24,7 @@ public class PoweroniumBlockBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:poweronium_block")
 	public static final Block block = null;
 	public PoweroniumBlockBlock(AdvancedCombatModElements instance) {
-		super(instance, 121);
+		super(instance, 13);
 	}
 
 	@Override

@@ -28,7 +28,7 @@ public class CloudLogBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:cloud_log")
 	public static final Block block = null;
 	public CloudLogBlock(AdvancedCombatModElements instance) {
-		super(instance, 332);
+		super(instance, 44);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class EnderStairsBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_stairs")
 	public static final Block block = null;
 	public EnderStairsBlock(AdvancedCombatModElements instance) {
-		super(instance, 165);
+		super(instance, 20);
 	}
 
 	@Override

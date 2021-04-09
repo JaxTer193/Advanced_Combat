@@ -17,7 +17,7 @@ public class CobsandPickaxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:cobsand_pickaxe")
 	public static final Item block = null;
 	public CobsandPickaxeItem(AdvancedCombatModElements instance) {
-		super(instance, 200);
+		super(instance, 130);
 	}
 
 	@Override

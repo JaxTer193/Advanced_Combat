@@ -28,7 +28,7 @@ public class EnderLogBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_log")
 	public static final Block block = null;
 	public EnderLogBlock(AdvancedCombatModElements instance) {
-		super(instance, 162);
+		super(instance, 17);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class CloudLeavesBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:cloud_leaves")
 	public static final Block block = null;
 	public CloudLeavesBlock(AdvancedCombatModElements instance) {
-		super(instance, 334);
+		super(instance, 46);
 	}
 
 	@Override

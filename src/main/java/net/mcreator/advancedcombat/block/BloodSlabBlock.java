@@ -28,7 +28,7 @@ public class BloodSlabBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:blood_slab")
 	public static final Block block = null;
 	public BloodSlabBlock(AdvancedCombatModElements instance) {
-		super(instance, 182);
+		super(instance, 29);
 	}
 
 	@Override

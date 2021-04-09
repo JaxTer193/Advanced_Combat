@@ -29,7 +29,7 @@ public class TinArmorItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:tin_armor_boots")
 	public static final Item boots = null;
 	public TinArmorItem(AdvancedCombatModElements instance) {
-		super(instance, 326);
+		super(instance, 97);
 	}
 
 	@Override

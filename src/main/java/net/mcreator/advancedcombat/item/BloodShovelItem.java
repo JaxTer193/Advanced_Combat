@@ -18,7 +18,7 @@ public class BloodShovelItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:blood_shovel")
 	public static final Item block = null;
 	public BloodShovelItem(AdvancedCombatModElements instance) {
-		super(instance, 260);
+		super(instance, 144);
 	}
 
 	@Override

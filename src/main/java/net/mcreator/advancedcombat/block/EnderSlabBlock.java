@@ -28,7 +28,7 @@ public class EnderSlabBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_slab")
 	public static final Block block = null;
 	public EnderSlabBlock(AdvancedCombatModElements instance) {
-		super(instance, 166);
+		super(instance, 21);
 	}
 
 	@Override

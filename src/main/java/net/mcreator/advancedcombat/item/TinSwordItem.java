@@ -17,7 +17,7 @@ public class TinSwordItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:tin_sword")
 	public static final Item block = null;
 	public TinSwordItem(AdvancedCombatModElements instance) {
-		super(instance, 318);
+		super(instance, 96);
 	}
 
 	@Override

@@ -17,7 +17,7 @@ public class RubyAxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ruby_axe")
 	public static final Item block = null;
 	public RubyAxeItem(AdvancedCombatModElements instance) {
-		super(instance, 222);
+		super(instance, 135);
 	}
 
 	@Override

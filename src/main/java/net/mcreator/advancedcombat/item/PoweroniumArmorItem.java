@@ -29,7 +29,7 @@ public class PoweroniumArmorItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:poweronium_armor_boots")
 	public static final Item boots = null;
 	public PoweroniumArmorItem(AdvancedCombatModElements instance) {
-		super(instance, 135);
+		super(instance, 84);
 	}
 
 	@Override

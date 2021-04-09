@@ -29,7 +29,7 @@ public class AluminumArmorItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:aluminum_armor_boots")
 	public static final Item boots = null;
 	public AluminumArmorItem(AdvancedCombatModElements instance) {
-		super(instance, 114);
+		super(instance, 82);
 	}
 
 	@Override

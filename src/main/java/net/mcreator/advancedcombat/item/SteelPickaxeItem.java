@@ -17,7 +17,7 @@ public class SteelPickaxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:steel_pickaxe")
 	public static final Item block = null;
 	public SteelPickaxeItem(AdvancedCombatModElements instance) {
-		super(instance, 62);
+		super(instance, 114);
 	}
 
 	@Override

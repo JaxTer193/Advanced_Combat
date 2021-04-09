@@ -16,7 +16,7 @@ public class SilverIngotItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:silver_ingot")
 	public static final Item block = null;
 	public SilverIngotItem(AdvancedCombatModElements instance) {
-		super(instance, 8);
+		super(instance, 61);
 	}
 
 	@Override

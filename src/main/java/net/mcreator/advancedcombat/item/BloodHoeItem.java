@@ -18,7 +18,7 @@ public class BloodHoeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:blood_hoe")
 	public static final Item block = null;
 	public BloodHoeItem(AdvancedCombatModElements instance) {
-		super(instance, 261);
+		super(instance, 145);
 	}
 
 	@Override

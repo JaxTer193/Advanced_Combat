@@ -19,7 +19,7 @@ public class PoweredSwordItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:powered_sword")
 	public static final Item block = null;
 	public PoweredSwordItem(AdvancedCombatModElements instance) {
-		super(instance, 54);
+		super(instance, 8);
 	}
 
 	@Override

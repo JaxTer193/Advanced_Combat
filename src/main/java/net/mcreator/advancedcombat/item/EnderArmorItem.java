@@ -29,7 +29,7 @@ public class EnderArmorItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_armor_boots")
 	public static final Item boots = null;
 	public EnderArmorItem(AdvancedCombatModElements instance) {
-		super(instance, 156);
+		super(instance, 86);
 	}
 
 	@Override

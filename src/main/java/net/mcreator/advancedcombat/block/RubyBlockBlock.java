@@ -24,7 +24,7 @@ public class RubyBlockBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ruby_block")
 	public static final Block block = null;
 	public RubyBlockBlock(AdvancedCombatModElements instance) {
-		super(instance, 217);
+		super(instance, 35);
 	}
 
 	@Override

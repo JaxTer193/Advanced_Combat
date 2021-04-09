@@ -28,7 +28,7 @@ public class CloudFenceBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:cloud_fence")
 	public static final Block block = null;
 	public CloudFenceBlock(AdvancedCombatModElements instance) {
-		super(instance, 337);
+		super(instance, 49);
 	}
 
 	@Override

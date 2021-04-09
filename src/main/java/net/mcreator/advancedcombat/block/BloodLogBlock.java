@@ -28,7 +28,7 @@ public class BloodLogBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:blood_log")
 	public static final Block block = null;
 	public BloodLogBlock(AdvancedCombatModElements instance) {
-		super(instance, 178);
+		super(instance, 25);
 	}
 
 	@Override

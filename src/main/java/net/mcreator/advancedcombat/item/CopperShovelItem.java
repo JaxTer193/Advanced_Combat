@@ -17,7 +17,7 @@ public class CopperShovelItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:copper_shovel")
 	public static final Item block = null;
 	public CopperShovelItem(AdvancedCombatModElements instance) {
-		super(instance, 15);
+		super(instance, 108);
 	}
 
 	@Override

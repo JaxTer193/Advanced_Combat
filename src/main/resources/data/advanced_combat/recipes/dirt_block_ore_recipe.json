@@ -1,0 +1,13 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    }
+  ],
+  "result": {
+    "item": "advanced_combat:dirt_dust",
+    "count": 9
+  }
+}

@@ -27,7 +27,7 @@ public class BloodStairsBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:blood_stairs")
 	public static final Block block = null;
 	public BloodStairsBlock(AdvancedCombatModElements instance) {
-		super(instance, 181);
+		super(instance, 28);
 	}
 
 	@Override

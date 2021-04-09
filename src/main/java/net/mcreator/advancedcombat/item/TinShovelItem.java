@@ -17,7 +17,7 @@ public class TinShovelItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:tin_shovel")
 	public static final Item block = null;
 	public TinShovelItem(AdvancedCombatModElements instance) {
-		super(instance, 319);
+		super(instance, 152);
 	}
 
 	@Override

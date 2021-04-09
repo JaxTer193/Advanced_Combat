@@ -39,7 +39,7 @@ public class CobsandOreBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:cobsand_ore")
 	public static final Block block = null;
 	public CobsandOreBlock(AdvancedCombatModElements instance) {
-		super(instance, 195);
+		super(instance, 32);
 	}
 
 	@Override

@@ -39,7 +39,7 @@ public class EnderOreBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_ore")
 	public static final Block block = null;
 	public EnderOreBlock(AdvancedCombatModElements instance) {
-		super(instance, 141);
+		super(instance, 14);
 	}
 
 	@Override
@@ -73,6 +73,8 @@ public class EnderOreBlock extends AdvancedCombatModElements.ModElement {
 					boolean dimensionCriteria = false;
 					if (dimensionType == DimensionType.OVERWORLD)
 						dimensionCriteria = true;
+					if (dimensionType == DimensionType.THE_END)
+						dimensionCriteria = true;
 					if (!dimensionCriteria)
 						return false;
 					return super.place(world, generator, rand, pos, config);
@@ -80,6 +82,8 @@ public class EnderOreBlock extends AdvancedCombatModElements.ModElement {
 			}.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.create("ender_ore", "ender_ore", blockAt -> {
 				boolean blockCriteria = false;
 				if (blockAt.getBlock() == Blocks.STONE.getDefaultState().getBlock())
+					blockCriteria = true;
+				if (blockAt.getBlock() == Blocks.END_STONE.getDefaultState().getBlock())
 					blockCriteria = true;
 				return blockCriteria;
 			}), block.getDefaultState(), 7)).withPlacement(Placement.COUNT_RANGE.configure(new CountRangeConfig(11, 1, 1, 63))));

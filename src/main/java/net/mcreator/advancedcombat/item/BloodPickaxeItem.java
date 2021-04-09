@@ -18,7 +18,7 @@ public class BloodPickaxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:blood_pickaxe")
 	public static final Item block = null;
 	public BloodPickaxeItem(AdvancedCombatModElements instance) {
-		super(instance, 257);
+		super(instance, 142);
 	}
 
 	@Override

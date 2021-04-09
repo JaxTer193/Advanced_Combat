@@ -29,22 +29,22 @@ public class SteelArmorItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:steel_armor_boots")
 	public static final Item boots = null;
 	public SteelArmorItem(AdvancedCombatModElements instance) {
-		super(instance, 72);
+		super(instance, 546);
 	}
 
 	@Override
 	public void initElements() {
 		IArmorMaterial armormaterial = new IArmorMaterial() {
 			public int getDurability(EquipmentSlotType slot) {
-				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 15;
+				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 132;
 			}
 
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{2, 6, 5, 2}[slot.getIndex()];
+				return new int[]{18, 53, 44, 18}[slot.getIndex()];
 			}
 
 			public int getEnchantability() {
-				return 9;
+				return 79;
 			}
 
 			public net.minecraft.util.SoundEvent getSoundEvent() {

@@ -28,7 +28,7 @@ public class BloodFenceBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:blood_fence")
 	public static final Block block = null;
 	public BloodFenceBlock(AdvancedCombatModElements instance) {
-		super(instance, 183);
+		super(instance, 30);
 	}
 
 	@Override

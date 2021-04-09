@@ -16,7 +16,7 @@ public class SaphireItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:saphire")
 	public static final Item block = null;
 	public SaphireItem(AdvancedCombatModElements instance) {
-		super(instance, 236);
+		super(instance, 68);
 	}
 
 	@Override

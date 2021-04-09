@@ -17,7 +17,7 @@ public class RubyHoeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ruby_hoe")
 	public static final Item block = null;
 	public RubyHoeItem(AdvancedCombatModElements instance) {
-		super(instance, 225);
+		super(instance, 137);
 	}
 
 	@Override

@@ -39,7 +39,7 @@ public class SaphireOreBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:saphire_ore")
 	public static final Block block = null;
 	public SaphireOreBlock(AdvancedCombatModElements instance) {
-		super(instance, 237);
+		super(instance, 36);
 	}
 
 	@Override

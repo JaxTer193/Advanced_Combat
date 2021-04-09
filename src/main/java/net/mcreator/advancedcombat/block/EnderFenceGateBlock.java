@@ -27,7 +27,7 @@ public class EnderFenceGateBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:ender_fence_gate")
 	public static final Block block = null;
 	public EnderFenceGateBlock(AdvancedCombatModElements instance) {
-		super(instance, 168);
+		super(instance, 23);
 	}
 
 	@Override

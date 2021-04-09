@@ -17,7 +17,7 @@ public class TinAxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:tin_axe")
 	public static final Item block = null;
 	public TinAxeItem(AdvancedCombatModElements instance) {
-		super(instance, 317);
+		super(instance, 151);
 	}
 
 	@Override

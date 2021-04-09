@@ -1,0 +1,57 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "minecraft_head",
+    "enableBody": true,
+    "textureBody": "minecraft_body",
+    "enableLeggings": true,
+    "textureLeggings": "minecraft_leggings",
+    "enableBoots": true,
+    "textureBoots": "minecraft_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "minecraft",
+    "helmetName": "Minecraft Helmet",
+    "bodyName": "Minecraft Chestplate",
+    "leggingsName": "Minecraft Leggings",
+    "bootsName": "Minecraft Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 150,
+    "damageValueHelmet": 20,
+    "damageValueBody": 50,
+    "damageValueLeggings": 60,
+    "damageValueBoots": 20,
+    "enchantability": 90,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:MinecraftIngot"
+      }
+    ]
+  }
+}

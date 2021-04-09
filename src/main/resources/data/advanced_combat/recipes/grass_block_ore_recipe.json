@@ -1,0 +1,13 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:grass"
+    }
+  ],
+  "result": {
+    "item": "advanced_combat:grass_dust",
+    "count": 9
+  }
+}

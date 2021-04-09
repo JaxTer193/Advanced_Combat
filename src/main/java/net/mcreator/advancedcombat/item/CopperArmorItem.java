@@ -29,7 +29,7 @@ public class CopperArmorItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:copper_armor_boots")
 	public static final Item boots = null;
 	public CopperArmorItem(AdvancedCombatModElements instance) {
-		super(instance, 9);
+		super(instance, 78);
 	}
 
 	@Override

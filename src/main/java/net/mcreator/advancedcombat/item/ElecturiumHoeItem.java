@@ -17,7 +17,7 @@ public class ElecturiumHoeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:electurium_hoe")
 	public static final Item block = null;
 	public ElecturiumHoeItem(AdvancedCombatModElements instance) {
-		super(instance, 277);
+		super(instance, 149);
 	}
 
 	@Override

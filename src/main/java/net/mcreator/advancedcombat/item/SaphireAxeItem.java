@@ -17,7 +17,7 @@ public class SaphireAxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:saphire_axe")
 	public static final Item block = null;
 	public SaphireAxeItem(AdvancedCombatModElements instance) {
-		super(instance, 243);
+		super(instance, 139);
 	}
 
 	@Override

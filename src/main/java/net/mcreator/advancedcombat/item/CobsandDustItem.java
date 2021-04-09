@@ -16,7 +16,7 @@ public class CobsandDustItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:cobsand_dust")
 	public static final Item block = null;
 	public CobsandDustItem(AdvancedCombatModElements instance) {
-		super(instance, 194);
+		super(instance, 66);
 	}
 
 	@Override

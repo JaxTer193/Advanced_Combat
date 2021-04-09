@@ -17,7 +17,7 @@ public class SaphirePickaxeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:saphire_pickaxe")
 	public static final Item block = null;
 	public SaphirePickaxeItem(AdvancedCombatModElements instance) {
-		super(instance, 242);
+		super(instance, 138);
 	}
 
 	@Override

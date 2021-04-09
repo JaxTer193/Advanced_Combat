@@ -22,7 +22,7 @@ public class SpooledWireItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:spooled_wire")
 	public static final Item block = null;
 	public SpooledWireItem(AdvancedCombatModElements instance) {
-		super(instance, 51);
+		super(instance, 6);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class BloodPlanksBlock extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:blood_planks")
 	public static final Block block = null;
 	public BloodPlanksBlock(AdvancedCombatModElements instance) {
-		super(instance, 179);
+		super(instance, 26);
 	}
 
 	@Override

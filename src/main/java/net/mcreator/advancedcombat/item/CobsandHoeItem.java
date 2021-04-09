@@ -17,7 +17,7 @@ public class CobsandHoeItem extends AdvancedCombatModElements.ModElement {
 	@ObjectHolder("advanced_combat:cobsand_hoe")
 	public static final Item block = null;
 	public CobsandHoeItem(AdvancedCombatModElements instance) {
-		super(instance, 204);
+		super(instance, 133);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BookOfMiningSecretsItem extends AdvancedCombatModElements.ModElemen
 	@ObjectHolder("advanced_combat:book_of_mining_secrets")
 	public static final Item block = null;
 	public BookOfMiningSecretsItem(AdvancedCombatModElements instance) {
-		super(instance, 347);
+		super(instance, 51);
 	}
 
 	@Override
