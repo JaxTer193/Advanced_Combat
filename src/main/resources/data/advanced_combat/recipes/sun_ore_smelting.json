@@ -1,0 +1,12 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:smelting",
+  "experience": 0.07,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "advanced_combat:sun_ore"
+  },
+  "result": {
+    "item": "advanced_combat:sun"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:amathest"
+    },
+    "1": {
+      "item": "advanced_combat:amathest"
+    },
+    "2": {
+      "item": "advanced_combat:amathest"
+    },
+    "3": {
+      "item": "advanced_combat:amathest"
+    },
+    "5": {
+      "item": "advanced_combat:amathest"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:amathest_armor_helmet",
+    "count": 1
+  }
+}

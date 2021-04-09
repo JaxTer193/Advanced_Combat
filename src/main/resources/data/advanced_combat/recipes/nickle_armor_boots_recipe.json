@@ -1,0 +1,26 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:nickle_ingot"
+    },
+    "2": {
+      "item": "advanced_combat:nickle_ingot"
+    },
+    "3": {
+      "item": "advanced_combat:nickle_ingot"
+    },
+    "5": {
+      "item": "advanced_combat:nickle_ingot"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:nickle_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:sun"
+    },
+    "1": {
+      "item": "advanced_combat:sun"
+    },
+    "2": {
+      "item": "advanced_combat:sun"
+    },
+    "3": {
+      "item": "advanced_combat:sun"
+    },
+    "4": {
+      "item": "advanced_combat:sun"
+    },
+    "5": {
+      "item": "advanced_combat:sun"
+    },
+    "6": {
+      "item": "advanced_combat:sun"
+    },
+    "7": {
+      "item": "advanced_combat:sun"
+    },
+    "8": {
+      "item": "advanced_combat:sun"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:sun_block",
+    "count": 1
+  }
+}

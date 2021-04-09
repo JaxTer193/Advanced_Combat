@@ -1,0 +1,13 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "advanced_combat:nickle_block"
+    }
+  ],
+  "result": {
+    "item": "advanced_combat:nickle_ingot",
+    "count": 9
+  }
+}

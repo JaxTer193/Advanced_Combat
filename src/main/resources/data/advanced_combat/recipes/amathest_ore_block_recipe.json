@@ -1,0 +1,42 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:amathest"
+    },
+    "1": {
+      "item": "advanced_combat:amathest"
+    },
+    "2": {
+      "item": "advanced_combat:amathest"
+    },
+    "3": {
+      "item": "advanced_combat:amathest"
+    },
+    "4": {
+      "item": "advanced_combat:amathest"
+    },
+    "5": {
+      "item": "advanced_combat:amathest"
+    },
+    "6": {
+      "item": "advanced_combat:amathest"
+    },
+    "7": {
+      "item": "advanced_combat:amathest"
+    },
+    "8": {
+      "item": "advanced_combat:amathest"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:amathest_block",
+    "count": 1
+  }
+}

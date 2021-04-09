@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:NickleIngot"
+      },
+      {
+        "value": "CUSTOM:NickleIngot"
+      },
+      {
+        "value": "CUSTOM:NickleIngot"
+      },
+      {
+        "value": "CUSTOM:NickleIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NickleIngot"
+      },
+      {
+        "value": "CUSTOM:NickleIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NickleIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:NickleArmor.legs"
+    },
+    "name": "nickle_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

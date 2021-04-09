@@ -1,0 +1,13 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "advanced_combat:sun_block"
+    }
+  ],
+  "result": {
+    "item": "advanced_combat:sun",
+    "count": 9
+  }
+}

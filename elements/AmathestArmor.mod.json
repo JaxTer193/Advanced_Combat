@@ -1,0 +1,57 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "amathest_head",
+    "enableBody": true,
+    "textureBody": "amathest_body",
+    "enableLeggings": true,
+    "textureLeggings": "amathest_leggings",
+    "enableBoots": true,
+    "textureBoots": "amathest_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "amathest",
+    "helmetName": "Amathest Helmet",
+    "bodyName": "Amathest Chestplate",
+    "leggingsName": "Amathest Leggings",
+    "bootsName": "Amathest Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 56,
+    "damageValueHelmet": 7,
+    "damageValueBody": 19,
+    "damageValueLeggings": 22,
+    "damageValueBoots": 7,
+    "enchantability": 33,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Amathest"
+      }
+    ]
+  }
+}
