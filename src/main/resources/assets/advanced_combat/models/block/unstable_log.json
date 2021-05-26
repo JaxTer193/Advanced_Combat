@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "advanced_combat:blocks/unstable_log_top",
+    "up": "advanced_combat:blocks/unstable_log_top",
+    "north": "advanced_combat:blocks/unstable_log_side",
+    "east": "advanced_combat:blocks/unstable_log_side",
+    "south": "advanced_combat:blocks/unstable_log_side",
+    "west": "advanced_combat:blocks/unstable_log_side",
+    "particle": "advanced_combat:blocks/unstable_log_top"
+  }
+}

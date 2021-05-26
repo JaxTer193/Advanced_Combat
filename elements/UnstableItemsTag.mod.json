@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:UnstableWood"
+      },
+      {
+        "value": "CUSTOM:UnstableLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "unstable_log",
+    "namespace": "forge"
+  }
+}

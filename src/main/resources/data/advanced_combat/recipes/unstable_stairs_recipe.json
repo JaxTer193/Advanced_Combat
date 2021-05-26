@@ -1,0 +1,33 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_combat:unstable_planks"
+    },
+    "3": {
+      "item": "advanced_combat:unstable_planks"
+    },
+    "4": {
+      "item": "advanced_combat:unstable_planks"
+    },
+    "6": {
+      "item": "advanced_combat:unstable_planks"
+    },
+    "7": {
+      "item": "advanced_combat:unstable_planks"
+    },
+    "8": {
+      "item": "advanced_combat:unstable_planks"
+    }
+  },
+  "result": {
+    "item": "advanced_combat:unstable_stairs",
+    "count": 4
+  }
+}

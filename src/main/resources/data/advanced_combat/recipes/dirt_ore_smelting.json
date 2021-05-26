@@ -4,7 +4,7 @@
   "experience": 0.07,
   "cookingtime": 200,
   "ingredient": {
-    "item": "advanced_combat:dirt_ore"
+    "item": "advanced_combat:deleted_mod_element"
   },
   "result": {
     "item": "advanced_combat:dirt_dust"

@@ -5763,6 +5763,150 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "light_armor_boots_recipe"
+    },
+    {
+      "name": "UnstableWood",
+      "type": "block",
+      "sortid": 635,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_wood"
+    },
+    {
+      "name": "UnstableLog",
+      "type": "block",
+      "sortid": 636,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_log"
+    },
+    {
+      "name": "UnstablePlanks",
+      "type": "block",
+      "sortid": 637,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_planks"
+    },
+    {
+      "name": "UnstableLeaves",
+      "type": "block",
+      "sortid": 638,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_leaves"
+    },
+    {
+      "name": "UnstableStairs",
+      "type": "block",
+      "sortid": 639,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_stairs"
+    },
+    {
+      "name": "UnstableSlab",
+      "type": "block",
+      "sortid": 640,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_slab"
+    },
+    {
+      "name": "UnstableFence",
+      "type": "block",
+      "sortid": 641,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_fence"
+    },
+    {
+      "name": "UnstableFenceGate",
+      "type": "block",
+      "sortid": 642,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_fence_gate"
+    },
+    {
+      "name": "UnstableItemsTag",
+      "type": "tag",
+      "sortid": 643,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_items_tag"
+    },
+    {
+      "name": "UnstableWoodRecipe",
+      "type": "recipe",
+      "sortid": 644,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_wood_recipe"
+    },
+    {
+      "name": "UnstablePlanksRecipe",
+      "type": "recipe",
+      "sortid": 645,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_planks_recipe"
+    },
+    {
+      "name": "UnstableStairsRecipe",
+      "type": "recipe",
+      "sortid": 646,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_stairs_recipe"
+    },
+    {
+      "name": "UnstableSlabRecipe",
+      "type": "recipe",
+      "sortid": 647,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_slab_recipe"
+    },
+    {
+      "name": "UnstableFenceRecipe",
+      "type": "recipe",
+      "sortid": 648,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_fence_recipe"
+    },
+    {
+      "name": "UnstableFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 649,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_fence_gate_recipe"
+    },
+    {
+      "name": "UnstableStickRecipe",
+      "type": "recipe",
+      "sortid": 650,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unstable_stick_recipe"
     }
   ],
   "variable_elements": [],
@@ -5810,6 +5954,7 @@
       "item.advanced_combat.silver_pickaxe": "Silver Pickaxe",
       "item.advanced_combat.cobalt_armor_chestplate": "Cobalt Chestplate",
       "block.advanced_combat.minecraft_block": "Block of Minecraft",
+      "block.advanced_combat.unstable_wood": "Unstable Wood",
       "item.advanced_combat.tin_hoe": "Tin Hoe",
       "item.advanced_combat.blood_axe": "Blood Axe",
       "item.advanced_combat.cobsand_armor_leggings": "Cobsand Leggings",
@@ -5836,6 +5981,7 @@
       "item.advanced_combat.light": "Light",
       "block.advanced_combat.sun_ore": "Sun Ore",
       "item.advanced_combat.aluminum_shovel": "Aluminum Shovel",
+      "block.advanced_combat.unstable_fence_gate": "Unstable Fence Gate",
       "block.advanced_combat.steel_block": "Block of Steel",
       "item.advanced_combat.hell_armor_chestplate": "Hell Chestplate",
       "item.advanced_combat.hell_fire_axe": "HellFire Axe",
@@ -5862,6 +6008,7 @@
       "item.advanced_combat.ruby_pickaxe": "Ruby Pickaxe",
       "item.advanced_combat.saphire_armor_boots": "Saphire Boots",
       "item.advanced_combat.dirt_armor_helmet": "Dirt Helmet",
+      "block.advanced_combat.unstable_slab": "Unstable Slab",
       "item.advanced_combat.steel_armor_helmet": "Steel Helmet",
       "item.advanced_combat.black_hole_hoe": "Black_Hole Hoe",
       "item.advanced_combat.aluminum_axe": "Aluminum Axe",
@@ -5878,7 +6025,9 @@
       "block.advanced_combat.poweronium_block": "Block of Poweronium",
       "item.advanced_combat.aluminum_armor_chestplate": "Aluminum Chestplate",
       "item.advanced_combat.minecraft_pickaxe": "Minecraft Pickaxe",
+      "block.advanced_combat.unstable_leaves": "Unstable Leaves",
       "item.advanced_combat.dirt_hoe": "Dirt Hoe",
+      "block.advanced_combat.unstable_log": "Unstable Log",
       "item.advanced_combat.poweronium_armor_chestplate": "Poweronium Chestplate",
       "item.advanced_combat.nickle_axe": "Nickle Axe",
       "item.advanced_combat.book_of_mining_secrets": "Book Of Mining Secrets",
@@ -5917,6 +6066,7 @@
       "item.advanced_combat.steel_hoe": "Steel Hoe",
       "item.advanced_combat.orange_pickaxe": "Orange Pickaxe",
       "item.advanced_combat.flat_ore_armor_boots": "FlatOre Boots",
+      "block.advanced_combat.unstable_stairs": "Unstable Stairs",
       "block.advanced_combat.cobsand_ore": "Cobsand Ore",
       "item.advanced_combat.ruby_armor_helmet": "Ruby Helmet",
       "item.minecraft.potion.effect.the_poition_of_everything": "The Poition Of Everything",
@@ -5951,6 +6101,7 @@
       "block.advanced_combat.nickle_block": "Block of Nickle",
       "item.advanced_combat.light_armor_chestplate": "Light Chestplate",
       "item.advanced_combat.nickle_armor_helmet": "Nickle Helmet",
+      "block.advanced_combat.unstable_fence": "Unstable Fence",
       "item.advanced_combat.poweronium_armor_helmet": "Poweronium Helmet",
       "item.advanced_combat.copper_ingot": "Copper",
       "block.advanced_combat.ender_stairs": "Ender Stairs",
@@ -6020,6 +6171,7 @@
       "item.advanced_combat.tin_armor_leggings": "Tin Leggings",
       "item.advanced_combat.black_hole_pickaxe": "Black_Hole Pickaxe",
       "item.advanced_combat.poop_axe": "Poop Axe",
+      "block.advanced_combat.unstable_planks": "Unstable Planks",
       "item.advanced_combat.cobsand_hoe": "Cobsand Hoe",
       "block.advanced_combat.ender_planks": "Ender Planks",
       "block.advanced_combat.everything_ore": "EVERYTHING Ore",
@@ -6119,12 +6271,17 @@
       "item.advanced_combat.grass_armor_helmet": "Grass Helmet"
     }
   },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
   "workspaceSettings": {
     "modid": "advanced_combat",
     "modName": "Advanced Combat",
     "version": "1.0.0",
     "author": "Warren, MCreator",
     "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -6136,5 +6293,5 @@
     "modElementsPackage": "net.mcreator.advancedcombat",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000547520
+  "mcreatorVersion": 202100118117
 }

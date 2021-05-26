@@ -1,0 +1,13 @@
+{
+  "group": "advanced_combat",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:unstable_log"
+    }
+  ],
+  "result": {
+    "item": "advanced_combat:unstable_planks",
+    "count": 4
+  }
+}

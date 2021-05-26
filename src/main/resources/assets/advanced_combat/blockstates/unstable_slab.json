@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "advanced_combat:block/unstable_slab"
+    },
+    "type=top": {
+      "model": "advanced_combat:block/unstable_slab_top"
+    },
+    "type=double": {
+      "model": "advanced_combat:block/unstable_slab_full"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "advanced_combat:blocks/unstable_planks",
+    "particle": "advanced_combat:blocks/unstable_planks"
+  }
+}
